@@ -1,5 +1,5 @@
 ## tải về và chạy lệnh
-```bash
+```
 npm i
 
 ```
