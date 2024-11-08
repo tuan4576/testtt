@@ -1,6 +1,8 @@
 ## tải về và chạy lệnh
 ```bash
-# nhớ là chạy lệnh này nha
 npm i
 
-````
+```
+## mô tả thông tin
+ - zalo : 0338066594
+ - facebook : thanhtuan
